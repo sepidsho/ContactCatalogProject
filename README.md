@@ -10,6 +10,7 @@ git clone https://github.com/sepidsho/ContactCatalogProject.git
 cd ContactCatalogProject
 dotnet build
 dotnet run
+Skärmbild av körning
 Dictionary<int, Contact> används för att spara kontakter med unika ID.
 
 HashSet<string> används för att undvika e-postdubbletter.
